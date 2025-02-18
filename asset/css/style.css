@@ -1,0 +1,26 @@
+.menus{
+
+   display: flex;
+
+   column-gap: 20px;
+list-style: none;
+}
+.rithi{
+    padding: 0px 70px;
+    background-color: aquamarine;
+    align-items: center;
+}
+.origin{
+    width: 100%;
+    height: 85vh;
+    object-fit: cover;
+}
+.abtimg{
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+    border-radius: 8px;
+}
+.para{
+    text-align: justify;
+}
